@@ -10,4 +10,4 @@
   <li>Node.js</li>
 </ul>
 <br>
-<img src="https://github.com/user-attachments/assets/cb3d4a0d-7c4c-440e-896f-c1153086f77b" alt="Todoroki" />
+<img src="https://github.com/user-attachments/assets/0b7ec66b-d01a-4f51-a9d5-b1d729149b5d"/>
